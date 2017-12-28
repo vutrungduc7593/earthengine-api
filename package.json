@@ -1,7 +1,7 @@
 {
   "name": "webpack-ee-api",
-  "version": "0.0.2",
-  "main": "./javascript/build/ee_api_js_debug.js",
+  "version": "0.0.3",
+  "main": "./javascript/build/ee_api_js.js",
   "repository": "https://github.com/vutrungduc7593/earthengine-api.git",
   "author": "vutrungduc7593@gmail.com",
   "license": "Apache-2.0"
